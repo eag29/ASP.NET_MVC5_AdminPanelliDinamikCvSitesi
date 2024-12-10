@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/955e1cb2-a383-4e60-8c8d-d5c06b1ad839
 
 ## 📸 **Ekran Görüntüleri**
 ### Admin Paneli  
-[Admin Paneli]((https://github.com/user-attachments/assets/917f5f28-86f9-4620-af31-e275bd22481b))
+https://github.com/user-attachments/assets/917f5f28-86f9-4620-af31-e275bd22481b
 
 ---
 
@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/955e1cb2-a383-4e60-8c8d-d5c06b1ad839
 
 ## 📬 **İletişim**
 Eğer proje hakkında sorularınız veya geri bildirimleriniz varsa, bana ulaşabilirsiniz:  
-- **E-posta:** [E-postam:](emirali19078@gmail.com)  
+- **E-posta:** [E-postam](emirali19078@gmail.com)  
 - **LinkedIn:** [LinkedLn Profilim](https://www.linkedin.com/in/emir-ali-girgin-a190b1201/) 
 
 ---

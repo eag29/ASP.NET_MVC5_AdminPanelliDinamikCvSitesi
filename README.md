@@ -3,7 +3,7 @@
 Merhaba! Bu proje, ASP.NET MVC5 kullanarak geliştirdiğim, dinamik bir **kişisel CV sitesi**dir.  
 Modern bir **Admin Paneli** ile site içeriğini kolayca yönetebilirsiniz.
 
-[Project Screenshot]((https://github.com/user-attachments/assets/955e1cb2-a383-4e60-8c8d-d5c06b1ad839))  
+https://github.com/user-attachments/assets/955e1cb2-a383-4e60-8c8d-d5c06b1ad839
 
 ---
 

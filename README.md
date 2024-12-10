@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/917f5f28-86f9-4620-af31-e275bd22481b
 ---
 
 ## ✨ **Canlı Önizleme**
-[🔗 Projeyi burada inceleyebilirsiniz](https://github.com/kullanici-adiniz/cv-site)
+[🔗 Projeyi burada inceleyebilirsiniz](https://github.com/eag29/ASP.NET_MVC5_AdminPanelliDinamikCvSitesi/blob/main/README.md))
 
 ---
 

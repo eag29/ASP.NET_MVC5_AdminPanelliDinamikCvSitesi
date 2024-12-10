@@ -1,0 +1,61 @@
+﻿@using MvcCV.Models.Entity
+@model List<Tbl_iletisim>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<body class="hold-transition sidebar-mini">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+
+
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header p-2">
+                            <ul class="nav nav-pills">
+                                <li class="nav-item"><a class="nav-link active" href="#activity" data-toggle="tab">Activity</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#timeline" data-toggle="tab">Timeline</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#settings" data-toggle="tab">Settings</a></li>
+                            </ul>
+                        </div>
+                        <div class="card-body">
+                            <div class="tab-pane" id="timeline">
+                                <div class="timeline timeline-inverse">
+                                    @foreach (var item in Model)
+                                    {
+                                        <div class="time-label">
+                                            <span class="bg-info">
+                                                @(((DateTime)item.Tarih).ToString("dd-MMM-yyyy"))
+                                            </span>
+                                        </div>
+
+                                        <div>
+                                            <i class="fas fa-comments bg-warning"></i>
+                                            <div class="timeline-item">
+                                                <span class="time"><i class="far fa-clock"></i> 27 mins ago</span>
+                                                <h3 class="timeline-header"><a href="#">@item.AdSoyad</a> @item.Konu</h3>
+                                                <div class="timeline-body">
+                                                    @item.Mesaj
+                                                </div>
+                                                <div class="timeline-footer">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

@@ -1,0 +1,10 @@
+﻿@using MvcCV.Models.Entity;
+@model List<TblHobilerim>
+<div class="resume-section-content">
+    @foreach (var item in Model)
+    {
+        <h2 class="mb-5">Hobiler</h2>
+        <p>@item.Aciklama1</p>
+        @*<p class="mb-0"></p>*@
+    }
+</div>

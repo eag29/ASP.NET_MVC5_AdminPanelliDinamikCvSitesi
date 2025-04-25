@@ -39,10 +39,3 @@ Eğer proje hakkında sorularınız veya geri bildirimleriniz varsa, bana ulaşa
 
 ---
 
-## 🎯 **Katkıda Bulunun**
-Projeyi geliştirmek veya hataları düzeltmek istiyorsanız, **Pull Request** göndermekten çekinmeyin!  
-
----
-
-## 📝 **Lisans**
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasını inceleyebilirsiniz.
